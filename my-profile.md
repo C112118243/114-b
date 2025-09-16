@@ -7,7 +7,7 @@
 * 技能二：法式滾球
 * 技能三：法式滾球
 
-**法式滾球**
+**最擅長的一項技能：法式滾球**
 
 *You may be disappointed if you fail, but you are doomed if you don't try.*
 
@@ -25,7 +25,7 @@
  | 國立高雄科技大學 | 資訊管理系 |
  | 高雄高商 | 會計事務科 |
 
-
-``` print("Hello, Markdown!")) ```
+'''python
+print("Hello, Markdown!"))
 
 
