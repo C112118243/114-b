@@ -25,7 +25,7 @@
  | 國立高雄科技大學 | 資訊管理系 |
  | 高雄高商 | 會計事務科 |
 
-'''python
-print("Hello, Markdown!"))
+```python
+print("Hello, World!")
 
 
