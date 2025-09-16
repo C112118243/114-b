@@ -31,7 +31,7 @@
  ### 🖥️程式碼
 
 ```python
-print("Hello, World!")
+print("Hello, Everyone!")
 ```
 >程式碼之所以有價值， 是因為它能被閱讀、理解和修改。
 >>版本控制使這一切成為可能。
