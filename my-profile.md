@@ -11,18 +11,21 @@
 
 *You may be disappointed if you fail, but you are doomed if you don't try.*
 
-加入一個你最喜歡的網站連結
-[YouTube](https://www.youtube.com/)
+[2024法式滾球亞洲錦標賽-混雙冠軍賽](https://www.youtube.com/live/7pCEjlu6qGA?si=W5SfE-FutaSXFk8C)
 
-插入一張圖片
 ![Petanque](Petanque.jpeg)
 
 >Success is walking from failure to failure with no loss of enthusiasm. -Winston Churchill
 
 >Growth and comfort do not coexist.“ -Ginni Rometty
 
-建立一個包含你的教育背景或工作經驗的表格，至少兩列兩行。
+學歷
+ | 學校 | 科系 |
+ |---|:---:|
+ | 國立高雄科技大學 | 資訊管理系 |
+ | 高雄高商 | 會計事務科 |
 
-加入一個程式碼區塊，展示你學過的一小段程式碼 (Python語言，例如 print("Hello, Markdown!"))。
+
+``` print("Hello, Markdown!")) ```
 
 
